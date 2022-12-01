@@ -42,3 +42,16 @@
 * commit
 
 ## 5. Использовать контроль версий в работе над этим проектом.
+
+$ git log --oneline
+e1bd589 (HEAD -> main) created README.md, chanched README.md, changed .gitignore
+99d0049 task 4 - program/ complete
+496e3aa ignore configured
+77fc0d4 created program/ and .NET
+c62d74e rename blok_skhema.jpg diagram.jpg
+3ccd14a add blok_skhema.jpg
+
++1 commit с изменениями README.md
+и git push
+Ветки я не создавал. Проект быстро закончился, и я чё-то прошляпил это дело, чтобы фантазию включить и показать как вот так вау, вот так вау, вот так вау, вот так могу. Вот так могу. 
+Спасибо за внимание. Надеюсь нарцисизм лягушонка из колодца тебя не сильно расстроил. ;)
